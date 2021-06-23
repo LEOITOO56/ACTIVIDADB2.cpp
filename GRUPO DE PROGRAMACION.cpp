@@ -39,7 +39,7 @@ cin>>c;
 cout<<"\n\n";
 
 
-//SUMA DE LAS MATRICES// le toco a gerald Swanson
+//SUMA DE LAS MATRICES// le toco a Gerald Swanson
 if(c==1)
 
 {
@@ -54,7 +54,7 @@ if(c==1)
 
 cout<<"******\n\n";
 
-//RESTA DE LAS MATRICES// le toco a josue lastra
+//RESTA DE LAS MATRICES// le toco a Josue Lastra
 if(c==2)
 
 {
@@ -67,7 +67,7 @@ if(c==2)
 }
 }
 
-//MULTIPLICACIÓN DE LAS MATRICES// joan enrique san lucas
+//MULTIPLICACIÓN DE LAS MATRICES// Joan Enrique San Lucas
 
 if(c==3)
 
@@ -81,7 +81,7 @@ if(c==3)
 }
 }
 
-//DIVISIÓN DE LAS MATRICES// le toco a kerly nieves
+//DIVISIÓN DE LAS MATRICES// le toco a kerly Nieves
 
 if(c==4)
 
