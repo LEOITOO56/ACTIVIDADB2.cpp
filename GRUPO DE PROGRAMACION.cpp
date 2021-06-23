@@ -16,7 +16,7 @@ cout<<"3. Multiplicacion \n";
 cout<<"4. Division \n";
 cout<<"\n";
 
-//PRESENTACIÓN DE LAS MATRICES// LEONARDO RAMIREZ
+//PRESENTACIÃ“N DE LAS MATRICES// LEONARDO RAMIREZ
 
 cout<<"LAS MATRICES SON:\n\n\n\n";
 
@@ -67,7 +67,7 @@ if(c==2)
 }
 }
 
-//MULTIPLICACIÓN DE LAS MATRICES// joan enrique san lucas
+//MULTIPLICACIÃ“N DE LAS MATRICES// joan enrique san lucas
 
 if(c==3)
 
@@ -81,7 +81,7 @@ if(c==3)
 }
 }
 
-//DIVISIÓN DE LAS MATRICES// le toco a kerly nieves
+//DIVISIÃ“N DE LAS MATRICES// le toco a kerly nieves
 
 if(c==4)
 
@@ -100,3 +100,8 @@ if(c==4)
 return 0;
 
 }
+//JOSUE SAMUEL LASTRA CAICEDO
+//Kerly Andrea Nieve Fierro
+//Joan Enrique San Lucas 
+//GERALD MARTIN SWANSON
+//GERALD MARTIN SWANSON
