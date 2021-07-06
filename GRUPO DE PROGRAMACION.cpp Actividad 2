@@ -6,29 +6,25 @@ int c;
 float matriz1[10]={2.3,4.5,6.5,0.5,6.1,5.5,1.2,2.4,6.5,9.1};
 float matriz2[10]={2.3,4.5,6.5,0.5,6.1,5.5,1.2,2.4,6.5,9.1};
 float suma[10],resta[10],producto[10],division[10];
-cout<<"============================================================\n\n";
-cout<<"             OPERACIONES BASICAS CON MATRICES\n\n";
-cout<<"                   TRABAJO REALIZADO POR:\n\n";
-cout<<"       Gerald Swanson - Leonardo Ramirez - Josue Lastra\n";
-cout<<"                Joan San Lucas - Kerly Nieves\n\n";
-cout<<"============================================================\n\n";
 
-cout<<"¿QUE OPERACION DESEAS REALIZAR? \n";
-cout<<"1. SUMA \n";
-cout<<"2. RESTA \n";
-cout<<"3. MULTIPLICACION \n";
-cout<<"4. DIVISION \n";
+
+cout<<"OPERACIONES CON MATRICES:\n\n";
+cout<<"digite la  OPERACION a REALIZAR? \n\n\n";
+cout<<"1. Suma \n";
+cout<<"2. Resta \n";
+cout<<"3. Multiplicacion \n";
+cout<<"4. Division \n";
 cout<<"\n";
 
 //PRESENTACIÓN DE LAS MATRICES// LEONARDO RAMIREZ
 
-cout<<"===================== LAS MATRICES SON =====================\n\n";
+cout<<"LAS MATRICES SON:\n\n\n\n";
 
 for (int i=0;i<10;i++)
 {
 	cout<<matriz1[i]<<" - ";
 }
-cout<<"\n";
+cout<<"\n\n";
 
 for (int i=0;i<10;i++)
 {
@@ -36,18 +32,18 @@ for (int i=0;i<10;i++)
 }
 
 cout<<"\n\n";
-cout<<"============================================================\n\n";
+cout<<"******\n\n";
 
-cout<<"¿QUE OPERACION DESEAS REALIZAR?\n";
+cout<<"ELIJA LA OPERACION QUE DESEA REALIZAR:\n\n";
 cin>>c;
-cout<<"\n";
+cout<<"\n\n";
 
 
-//SUMA DE LAS MATRICES// GERALD SWANSON
+//SUMA DE LAS MATRICES// le toco a Gerald Swanson
 if(c==1)
 
 {
-	cout<<"USTED ESCOJIO LA OPCION DE SUMA\n\n";
+	cout<<"USTED A ESCOGIDO LA SUMA\n\n";
 	cout<<"EL RESULTADO ES:\n\n";
 	for (int i=0;i<10;i++)
 {
@@ -56,13 +52,13 @@ if(c==1)
 }
 }
 
-cout<<"======================================\n\n";
+cout<<"******\n\n";
 
-//RESTA DE LAS MATRICES// JOSUE LASTRA
+//RESTA DE LAS MATRICES// le toco a Josue Lastra
 if(c==2)
 
 {
-	cout<<"USTED ESCOJIO LA OPCION DE RESTA\n\n";
+	cout<<"USTED A ESCOGIDO LA RESTA\n\n";
 	cout<<"EL RESULTADO ES:\n\n";
 	for (int i=0;i<10;i++)
 {
@@ -71,11 +67,12 @@ if(c==2)
 }
 }
 
-//MULTIPLICACIÓN DE LAS MATRICES// JOAN ENRIQUE SAN LUCAS
+//MULTIPLICACIÓN DE LAS MATRICES// Joan Enrique San Lucas
+
 if(c==3)
 
 {
-	cout<<"USTED ESCOJIO LA OPCION DE MULTIPLICACION\n\n";
+	cout<<"USTED A ESCOGIDO LA MULTIPLICACION\n\n";
 	cout<<"EL RESULTADO ES:\n\n";
 	for (int i=0;i<10;i++)
 {
@@ -84,11 +81,12 @@ if(c==3)
 }
 }
 
-//DIVISIÓN DE LAS MATRICES// KERLY NIEVES
+//DIVISIÓN DE LAS MATRICES// le toco a kerly Nieves
+
 if(c==4)
 
 {
-	cout<<"USTED ESCOJIO LA OPCION DE DIVISION\n\n";
+	cout<<"USTED A ESCOGIDO LA  DIVISION\n\n";
 	cout<<"EL RESULTADO ES:\n\n";
 	for (int i=0;i<10;i++)
 {
