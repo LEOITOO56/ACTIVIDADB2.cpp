@@ -16,7 +16,9 @@ cout<<"3. Multiplicacion \n";
 cout<<"4. Division \n";
 cout<<"\n";
 
+//*******************************************************
 //PRESENTACIÓN DE LAS MATRICES// LEONARDO RAMIREZ
+//*******************************************************
 
 cout<<"LAS MATRICES SON:\n\n\n\n";
 
@@ -38,8 +40,10 @@ cout<<"ELIJA LA OPERACION QUE DESEA REALIZAR:\n\n";
 cin>>c;
 cout<<"\n\n";
 
+//***************************************************
+//SUMA DE LAS MATRICES le toco a Gerald Swanson
+//***************************************************
 
-//SUMA DE LAS MATRICES// le toco a Gerald Swanson
 if(c==1)
 
 {
@@ -54,7 +58,10 @@ if(c==1)
 
 cout<<"******\n\n";
 
-//RESTA DE LAS MATRICES// le toco a Josue Lastra
+//***********************************************
+//RESTA DE LAS MATRICES le toco a Josue Lastra
+//***********************************************
+
 if(c==2)
 
 {
@@ -67,7 +74,9 @@ if(c==2)
 }
 }
 
-//MULTIPLICACIÓN DE LAS MATRICES// Joan Enrique San Lucas
+//********************************************************
+//MULTIPLICACIÓN DE LAS MATRICES Joan Enrique San Lucas
+//********************************************************
 
 if(c==3)
 
@@ -81,7 +90,9 @@ if(c==3)
 }
 }
 
-//DIVISIÓN DE LAS MATRICES// le toco a kerly Nieves
+//**************************************************
+//DIVISIÓN DE LAS MATRICES le toco a kerly Nieves
+//**************************************************
 
 if(c==4)
 
@@ -100,8 +111,11 @@ if(c==4)
 return 0;
 
 }
-//JOSUE SAMUEL LASTRA CAICEDO
-//Kerly Andrea Nieve Fierro
-//Joan Enrique San Lucas 
-//GERALD MARTIN SWANSON
-//GERALD MARTIN SWANSON
+
+//*****************************************
+/*JOSUE SAMUEL LASTRA CAICEDO
+Kerly Andrea Nieve Fierro
+Joan Enrique San Lucas 
+GERALD MARTIN SWANSON
+*/GERALD MARTIN SWANSON
+//******************************************
