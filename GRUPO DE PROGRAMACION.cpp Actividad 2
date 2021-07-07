@@ -20,9 +20,7 @@ cout<<"3. MULTIPLICACION \n";
 cout<<"4. DIVISION \n";
 cout<<"\n";
 
-//*******************************************************
 //PRESENTACIÓN DE LAS MATRICES// LEONARDO RAMIREZ
-//*******************************************************
 
 cout<<"===================== LAS MATRICES SON =====================\n\n";
 
@@ -44,10 +42,6 @@ cout<<"¿QUE OPERACION DESEAS REALIZAR?\n";
 cin>>c;
 cout<<"\n";
 
-//***************************************************
-//SUMA DE LAS MATRICES le toco a Gerald Swanson
-//***************************************************
-
 
 //SUMA DE LAS MATRICES// GERALD SWANSON
 if(c==1)
@@ -64,10 +58,7 @@ if(c==1)
 
 cout<<"======================================\n\n";
 
-
-//***********************************************
-//RESTA DE LAS MATRICES le toco a Josue Lastra
-//***********************************************
+//RESTA DE LAS MATRICES// JOSUE LASTRA
 if(c==2)
 
 {
@@ -80,10 +71,7 @@ if(c==2)
 }
 }
 
-
-//********************************************************
-//MULTIPLICACIÓN DE LAS MATRICES Joan Enrique San Lucas
-//********************************************************
+//MULTIPLICACIÓN DE LAS MATRICES// JOAN ENRIQUE SAN LUCAS
 if(c==3)
 
 {
@@ -96,11 +84,7 @@ if(c==3)
 }
 }
 
-
 //DIVISIÓN DE LAS MATRICES// KERLY NIEVES
-//**************************************************
-//DIVISIÓN DE LAS MATRICES le toco a kerly Nieves
-//**************************************************
 if(c==4)
 
 {
