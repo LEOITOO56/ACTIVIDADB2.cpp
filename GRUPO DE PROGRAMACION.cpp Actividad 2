@@ -98,7 +98,7 @@ if(c==4)
 
 {
 	cout<<"USTED A ESCOGIDO LA  DIVISION\n\n";
-	cout<<"EL RESULTADO ES:\n\n";
+	cout<<"EL RESULTADO ES:\n\n\n";
 	for (int i=0;i<10;i++)
 {
 	division[i]=matriz1[i]/matriz2[i];
@@ -114,7 +114,7 @@ return 0;
 
 //*****************************************
 /*JOSUE SAMUEL LASTRA CAICEDO
-Kerly Andrea Nieve Fierro
+Kerly Andrea Nieves Fierro
 Joan Enrique San Lucas 
 */GERALD MARTIN SWANSON
 //******************************************
