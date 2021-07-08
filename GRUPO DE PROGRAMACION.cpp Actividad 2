@@ -9,7 +9,7 @@ float suma[10],resta[10],producto[10],division[10];
 
 
 cout<<"OPERACIONES CON MATRICES:\n\n";
-cout<<"digite la  OPERACION a REALIZAR? \n\n\n";
+cout<<"Digite la  OPERACION a REALIZAR? \n\n\n";
 cout<<"1. Suma \n";
 cout<<"2. Resta \n";
 cout<<"3. Multiplicacion \n";
@@ -116,6 +116,5 @@ return 0;
 /*JOSUE SAMUEL LASTRA CAICEDO
 Kerly Andrea Nieve Fierro
 Joan Enrique San Lucas 
-GERALD MARTIN SWANSON
 */GERALD MARTIN SWANSON
 //******************************************
